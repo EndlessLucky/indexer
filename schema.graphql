@@ -1,0 +1,5 @@
+type TokenStreaming_CreateStream {
+  id: ID!
+  sender_asset: BigInt!
+  receiver_asset: BigInt!
+}
